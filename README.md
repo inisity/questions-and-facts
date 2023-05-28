@@ -10,6 +10,19 @@ I will use the issues tab to keep track things I'm doing **DO NOT MAKE ISSUES**
 
 Pull requests are welcome if you wish to add things on your own. I'll most likely merge it. 
 
+```json
+[
+"carrots or hotdogs?"
+]
+``` 
+This is an example of an entry, if there's more than one already you add a , to the end so let's say the file looked like this: 
+```json
+[
+"cars or trucks?",
+"hotdogs or hamburgers?"
+]
+```
+see as the last one has no , that's because it's at the end **keep this in mind if editing**
 # Credit
 Me [BestLeaks](https://github.com/BestLeaks)
 
