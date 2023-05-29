@@ -12,7 +12,7 @@ const foodFacts = require('./directory/food-facts.json')
 function fact () {
   
   let allFacts = [
-    animalFacts[Math.floor(Math.random() * emojiFacts.length)], carFacts[Math.floor(Math.random() * spaceFacts.length)], foodFacts[Math.floor(Math.random() * foodFacts.length)]
+    animalFacts[Math.floor(Math.random() * animalFacts.length)], carFacts[Math.floor(Math.random() * carFacts.length)], foodFacts[Math.floor(Math.random() * foodFacts.length)]
   ]
 
   return{
