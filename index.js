@@ -17,8 +17,8 @@ function fact () {
 
   return{
     all: allFacts[Math.floor(Math.random() * allFacts.length)],
-    emoji: animalFacts[Math.floor(Math.random() * emojiFacts.length)],
-    space: carFacts[Math.floor(Math.random() * spaceFacts.length)],
+    animal: animalFacts[Math.floor(Math.random() * animalFacts.length)],
+    car: carFacts[Math.floor(Math.random() * carFacts.length)],
     food: foodFacts[Math.floor(Math.random() * foodFacts.length)]
   }
 }
