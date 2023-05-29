@@ -30,3 +30,5 @@ Me [BestLeaks](https://github.com/BestLeaks)
 
 ## Suggestors and Pull Requestors
 none
+
+Maintained by the [Fears to Fathom Community](https://discord.gg/fears-to-fathom), [BestLeaks](https://github.com/BestLeaks), and the [Mega Utilities Company](https://github.com/Roleplay-Utilities)
